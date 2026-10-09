@@ -1,0 +1,9 @@
+[project]
+name = "pairwise-memory"
+version = "0.1.0"
+description = "Prime-indexed deterministic temporal reasoning engine"
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
